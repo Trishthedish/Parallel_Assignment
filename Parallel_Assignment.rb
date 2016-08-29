@@ -24,3 +24,5 @@ puts "y = #{y}"
 value1, value2 = [25, 50, 100, 200, 400]
 puts "value1 = #{value1}"
 puts "value2 = #{value2}"
+
+# testing
